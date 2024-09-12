@@ -8,8 +8,11 @@ Initial Repository
 
 [Linkedin Learning Course](https://github.com/teaganboeckmann/Hello-World/edit/main/README.md#linkedin-learning-course)
 
-
+[Resume](https://github.com/teaganboeckmann/Hello-World/edit/main/README.md#resume)
 
 ## Linkedin Learning Course
 https://www.linkedin.com/learning/craft-a-great-github-profile/default-github-profile?autoSkip=true&resume=false&u=42459020
 
+
+## Resume
+[Teagan-Boeckmann-Resume.pdf](https://github.com/user-attachments/files/16971887/Teagan-Boeckmann-Resume.pdf)
